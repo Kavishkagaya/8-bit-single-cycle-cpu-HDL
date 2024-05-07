@@ -1,0 +1,41 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Wed May 31 05:04:22 2023
+[*]
+[dumpfile] "D:\univ\Semester 04\CO224\lab5\part3\cpu_wavedata.vcd"
+[dumpfile_mtime] "Wed May 31 05:03:19 2023"
+[dumpfile_size] 11901
+[savefile] "D:\univ\Semester 04\CO224\lab5\part3\x.gtkw"
+[timestart] 0
+[size] 1536 801
+[pos] -191 -191
+*0.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] cpu_tb.
+[sst_width] 197
+[signals_width] 166
+[sst_expanded] 1
+[sst_vpaned_height] 224
+@28
+cpu_tb.mycpu.ALUopcode[2:0]
+@22
+cpu_tb.mycpu.ALUres[7:0]
+@28
+cpu_tb.mycpu.CLK
+@22
+cpu_tb.mycpu.INSTRUCTION[31:0]
+cpu_tb.mycpu.PC[31:0]
+cpu_tb.mycpu.PCout[31:0]
+@28
+cpu_tb.mycpu.RESET
+@22
+cpu_tb.mycpu.muxNegOut[7:0]
+cpu_tb.mycpu.muxSourceOut[7:0]
+cpu_tb.mycpu.negOut[7:0]
+cpu_tb.mycpu.regout1[7:0]
+cpu_tb.mycpu.regout2[7:0]
+@28
+cpu_tb.mycpu.signSelect
+cpu_tb.mycpu.sourceSelect
+cpu_tb.mycpu.writeEn
+[pattern_trace] 1
+[pattern_trace] 0

@@ -1,0 +1,35 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Wed Jun 21 04:35:55 2023
+[*]
+[dumpfile] "D:\univ\Semester 04\CO224\lab6\part1\cpu_wavedata.vcd"
+[dumpfile_mtime] "Wed Jun 21 04:34:32 2023"
+[dumpfile_size] 16822
+[savefile] "D:\univ\Semester 04\CO224\lab6\part1\test.gtkw"
+[timestart] 0
+[size] 1536 801
+[pos] -113 -113
+*-5.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] cpu_tb.
+[treeopen] cpu_tb.mycpu.
+[sst_width] 197
+[signals_width] 142
+[sst_expanded] 1
+[sst_vpaned_height] 224
+@28
+cpu_tb.mycpu.dmem.clock
+@23
+cpu_tb.mycpu.control.opcode[7:0]
+@22
+cpu_tb.mycpu.dmem.address[7:0]
+@28
+cpu_tb.mycpu.dmem.busywait
+cpu_tb.mycpu.dmem.read
+@22
+cpu_tb.mycpu.dmem.readdata[7:0]
+@28
+cpu_tb.mycpu.dmem.write
+@22
+cpu_tb.mycpu.dmem.writedata[7:0]
+[pattern_trace] 1
+[pattern_trace] 0
